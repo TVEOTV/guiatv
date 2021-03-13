@@ -1,0 +1,2874 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Uno">
+    <display-name lang="es">Canal Uno</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Uno FHD (P)">
+    <display-name lang="es">Canal Uno FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL UNO HD (Ec)">
+    <display-name lang="es">CANAL UNO HD (Ec)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Uno HD (P)">
+    <display-name lang="es">Canal Uno HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Uno SD (P)">
+    <display-name lang="es">Canal Uno SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Uno SD ">
+    <display-name lang="es">Canal Uno SD </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV HD (P)">
+    <display-name lang="es">Ecuador TV HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV HD ">
+    <display-name lang="es">Ecuador TV HD </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV SD">
+    <display-name lang="es">Ecuador TV SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV SD (P)">
+    <display-name lang="es">Ecuador TV SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuador TV-HD 1080P">
+    <display-name lang="es">Ecuador TV-HD 1080P</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa">
+    <display-name lang="es">Ecuavisa</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ECUAVISA (EC)">
+    <display-name lang="es">ECUAVISA (EC)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa FHD">
+    <display-name lang="es">Ecuavisa FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa FHD (P)">
+    <display-name lang="es">Ecuavisa FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ECUAVISA HD (Ec)">
+    <display-name lang="es">ECUAVISA HD (Ec)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa HD (P)">
+    <display-name lang="es">Ecuavisa HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Ecuavisa SD (P)">
+    <display-name lang="es">Ecuavisa SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Gamavision">
+    <display-name lang="es">Gamavision</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Gamavision FHD (P)">
+    <display-name lang="es">Gamavision FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Gamavision HD (P)">
+    <display-name lang="es">Gamavision HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Gamavision SD (P)">
+    <display-name lang="es">Gamavision SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MAX TV">
+    <display-name lang="es">MAX TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS -HD">
+    <display-name lang="es">RTS -HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS -HD ">
+    <display-name lang="es">RTS -HD </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS FHD (P)">
+    <display-name lang="es">RTS FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS HD (P)">
+    <display-name lang="es">RTS HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS SD (P)">
+    <display-name lang="es">RTS SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RTS SD.">
+    <display-name lang="es">RTS SD.</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TC Television">
+    <display-name lang="es">TC Television</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TC Television FHD (P)">
+    <display-name lang="es">TC Television FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TC Television HD (P)">
+    <display-name lang="es">TC Television HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TC Television SD">
+    <display-name lang="es">TC Television SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TC Television SD (P)">
+    <display-name lang="es">TC Television SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas">
+    <display-name lang="es">Teleamazonas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas FHD (P)">
+    <display-name lang="es">Teleamazonas FHD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas HD (P)">
+    <display-name lang="es">Teleamazonas HD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas SD (P)">
+    <display-name lang="es">Teleamazonas SD (P)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleamazonas-HD QUITO (p)">
+    <display-name lang="es">Teleamazonas-HD QUITO (p)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="Canal Uno">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="Canal Uno">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="Canal Uno">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="Canal Uno">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Canal Uno">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="Canal Uno">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="Canal Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="Canal Uno">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="Canal Uno">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="Canal Uno">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="Canal Uno">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Canal Uno">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="Canal Uno">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="Canal Uno">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="Canal Uno">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Canal Uno">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Canal Uno">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="Canal Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Canal Uno">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Canal Uno">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Canal Uno">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="Canal Uno">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="Canal Uno">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="Canal Uno">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="Canal Uno">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Canal Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Canal Uno">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="Canal Uno">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Canal Uno">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Canal Uno">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Canal Uno">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Canal Uno">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="Canal Uno">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="Canal Uno">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="Canal Uno">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="Canal Uno">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="Canal Uno">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="Canal Uno">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Canal Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="Canal Uno">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="Canal Uno">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Canal Uno">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Canal Uno">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Canal Uno">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="Canal Uno">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="Canal Uno FHD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="CANAL UNO HD (Ec)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="Canal Uno HD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="Canal Uno SD (P)">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312020000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312030000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312050000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312051500 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312051500 -0500" stop="20210312053000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312061500 -0500" channel="Canal Uno SD ">
+    <title lang="es">Notas divinas</title>
+  </programme>
+  <programme start="20210312061500 -0500" stop="20210312063000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312063000 -0500" stop="20210312070000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312080000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312090000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Conexión comunitaria</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312091500 -0500" channel="Canal Uno SD ">
+    <title lang="es">Descubriendo lo paranormal</title>
+  </programme>
+  <programme start="20210312091500 -0500" stop="20210312100000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312104500 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312104500 -0500" stop="20210312113000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312133000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312133000 -0500" stop="20210312134500 -0500" channel="Canal Uno SD ">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312140000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="Canal Uno SD ">
+    <title lang="es">La bella Ceci y el imprudente</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312170000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Canal Uno SD ">
+    <title lang="es">La Leyenda de Hao Lan</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Redux</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Noticiero Uno</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312213000 -0500" channel="Canal Uno SD ">
+    <title lang="es">La ronca de oro</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Contigo hasta el fin</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312233000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Directo al grano con José Delgado</title>
+  </programme>
+  <programme start="20210312233000 -0500" stop="20210313000000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313053000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313053000 -0500" stop="20210313060000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313080000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Hola Mauricio</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313113000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313113000 -0500" stop="20210313120000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313123000 -0500" channel="Canal Uno SD ">
+    <title lang="es">JD Producciones</title>
+  </programme>
+  <programme start="20210313123000 -0500" stop="20210313130000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Guayas polo de desarrollo</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313133000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313134500 -0500" stop="20210313143000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Aquí entre nos</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313163000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313163000 -0500" stop="20210313183000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Cine mexicano Olympusat</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313200000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Mi Recinto</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313220000 -0500" channel="Canal Uno SD ">
+    <title lang="es">En carne propia - Estelar</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="Canal Uno SD ">
+    <title lang="es">Canal Uno Ecuador</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312013000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312043000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312043000 -0500" stop="20210312053000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312080000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312100000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312110000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312120000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312123000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210312123000 -0500" stop="20210312130000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312145000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312145000 -0500" stop="20210312150000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312183000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313013000 -0500" stop="20210313060000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313110000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313130000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313140000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313150000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313173000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210313173000 -0500" stop="20210313183000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313200000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313233000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314003000 -0500" channel="Ecuador TV HD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312013000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312043000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312043000 -0500" stop="20210312053000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312080000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312100000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312110000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312120000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312123000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210312123000 -0500" stop="20210312130000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312145000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312145000 -0500" stop="20210312150000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312183000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313013000 -0500" stop="20210313060000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313110000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313130000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313140000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313150000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313173000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210313173000 -0500" stop="20210313183000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313200000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313233000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314003000 -0500" channel="Ecuador TV HD ">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312013000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312043000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312043000 -0500" stop="20210312053000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312080000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312100000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312110000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312120000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312123000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210312123000 -0500" stop="20210312130000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312145000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312145000 -0500" stop="20210312150000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312183000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313013000 -0500" stop="20210313060000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313110000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313130000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313140000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313150000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313173000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210313173000 -0500" stop="20210313183000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313200000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313233000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314003000 -0500" channel="Ecuador TV SD">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312013000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312043000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312043000 -0500" stop="20210312053000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312080000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312100000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312110000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312120000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312123000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210312123000 -0500" stop="20210312130000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312145000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312145000 -0500" stop="20210312150000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312183000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313013000 -0500" stop="20210313060000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313110000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313130000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313140000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313150000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313173000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210313173000 -0500" stop="20210313183000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313200000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313233000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314003000 -0500" channel="Ecuador TV SD (P)">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312003000 -0500" stop="20210312013000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312043000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312043000 -0500" stop="20210312053000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312080000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312100000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312110000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312120000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312123000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210312123000 -0500" stop="20210312130000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Hola,¿qué hace</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312145000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312145000 -0500" stop="20210312150000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Tierra y Mar</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312163000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210312163000 -0500" stop="20210312183000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313013000 -0500" stop="20210313060000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Noticiero Quichua Willaykuna</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313110000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Café TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313130000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313130000 -0500" stop="20210313140000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Desde Cero</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313150000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Rodando Ecuador</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313173000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210313173000 -0500" stop="20210313183000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20210313183000 -0500" stop="20210313190000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313200000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Fanático</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Esta es mi canción</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313233000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Próxima parada</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314003000 -0500" channel="Ecuador TV-HD 1080P">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="Ecuavisa">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="Ecuavisa">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="Ecuavisa">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="Ecuavisa">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="Ecuavisa">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="Ecuavisa">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="Ecuavisa">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="Ecuavisa">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="Ecuavisa">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuavisa">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="Ecuavisa">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuavisa">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Ecuavisa">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Ecuavisa">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Ecuavisa">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuavisa">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuavisa">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuavisa">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuavisa">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="Ecuavisa">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="Ecuavisa">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Ecuavisa">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuavisa">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Ecuavisa">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Ecuavisa">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Ecuavisa">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Ecuavisa">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuavisa">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="Ecuavisa">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="Ecuavisa">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="Ecuavisa">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuavisa">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="Ecuavisa">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Ecuavisa">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Ecuavisa">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Ecuavisa">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="Ecuavisa">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312013000 -0500" stop="20210312020000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Sin límites</title>
+  </programme>
+  <programme start="20210312020000 -0500" stop="20210312023000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Pasado y Confeso</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312030000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Vive verde y rebelde</title>
+  </programme>
+  <programme start="20210312030000 -0500" stop="20210312033000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20210312033000 -0500" stop="20210312040000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210312040000 -0500" stop="20210312050000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312060000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Rastros de mentiras</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312070000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo Al Amanecer Costa</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312073000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Contacto Directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo en la Comunidad Costa</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312100000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210312100000 -0500" stop="20210312103000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312143000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Vive verde y rebelde</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312160000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Rastros de mentiras</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312173000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210312173000 -0500" stop="20210312180000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312183000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20210312183000 -0500" stop="20210312190000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312213000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20210312213000 -0500" stop="20210312223000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Rastros de mentiras</title>
+  </programme>
+  <programme start="20210312223000 -0500" stop="20210312230000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313073000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">BeFlexible: Pare el dolor en sólo 7 días con una cápsula al día</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313083000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Vive simple</title>
+  </programme>
+  <programme start="20210313083000 -0500" stop="20210313090000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Ecuador Olímpico</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313100000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Hablando de Inmigración</title>
+  </programme>
+  <programme start="20210313100000 -0500" stop="20210313110000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313140000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Lo Mejor De: En Contacto</title>
+  </programme>
+  <programme start="20210313140000 -0500" stop="20210313143000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210313143000 -0500" stop="20210313150000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20210313150000 -0500" stop="20210313153000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20210313153000 -0500" stop="20210313160000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">3 Familias</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313180000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Rastros de mentiras</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313203000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">El más querido</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313213000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Secretos</title>
+  </programme>
+  <programme start="20210313213000 -0500" stop="20210313220000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Milagros</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313230000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Esta semana</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314000000 -0500" channel="ECUAVISA (EC)">
+    <title lang="es">Crónicas urbanas</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="Ecuavisa FHD">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="Ecuavisa FHD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="ECUAVISA HD (Ec)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="Ecuavisa HD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312001500 -0500" stop="20210312023000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Combo amarillo</title>
+  </programme>
+  <programme start="20210312023000 -0500" stop="20210312050000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210312050000 -0500" stop="20210312055500 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312055500 -0500" stop="20210312065500 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312065500 -0500" stop="20210312073000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312083000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312093000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210312093000 -0500" stop="20210312103000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312103000 -0500" stop="20210312130000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312140000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312140000 -0500" stop="20210312150000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Gata Salvaje</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312220000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210312220000 -0500" stop="20210312230000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210313050000 -0500" stop="20210313060000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313070000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Del huerto a la mesa</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Crecer sin límites</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313103000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210313103000 -0500" stop="20210313110000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210313110000 -0500" stop="20210313120000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313160000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313160000 -0500" stop="20210313170000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210313170000 -0500" stop="20210313190000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313190000 -0500" stop="20210313193000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210313193000 -0500" stop="20210313213000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313223000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313223000 -0500" stop="20210313230000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210313233000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Ecuavisa</title>
+  </programme>
+  <programme start="20210313233000 -0500" stop="20210314013000 -0500" channel="Ecuavisa SD (P)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Gamavision">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312070000 -0500" channel="Gamavision">
+    <title lang="es">Gamanoticias matinal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312073000 -0500" channel="Gamavision">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312080000 -0500" channel="Gamavision">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312083000 -0500" channel="Gamavision">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312090000 -0500" channel="Gamavision">
+    <title lang="es">Pensadores positivos</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312110000 -0500" channel="Gamavision">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312113000 -0500" channel="Gamavision">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Gamavision">
+    <title lang="es">La Elegida</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312130000 -0500" channel="Gamavision">
+    <title lang="es">Tabú</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312134500 -0500" channel="Gamavision">
+    <title lang="es">Gamanoticias en la comunidad</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312143000 -0500" channel="Gamavision">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Gamavision">
+    <title lang="es">Secretos del diario</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Gamavision">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Gamavision">
+    <title lang="es">Tik Music</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Gamavision">
+    <title lang="es">Puro teatro</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Gamavision">
+    <title lang="es">El bigote del sabor</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Gamavision">
+    <title lang="es">Dueña y señora</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Gamavision">
+    <title lang="es">Vera... a su manera</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312230000 -0500" channel="Gamavision">
+    <title lang="es">Quienes mandan aquí</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Gamavision">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Gamavision">
+    <title lang="es">Cocinando</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Gamavision">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Gamavision">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Gamavision">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Gamavision">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Gamavision">
+    <title lang="es">Quiero Ser</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313100000 -0500" channel="Gamavision">
+    <title lang="es">Encuentro con Dios</title>
+  </programme>
+  <programme start="20210313100000 -0500" stop="20210313120000 -0500" channel="Gamavision">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313180000 -0500" channel="Gamavision">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210313180000 -0500" stop="20210313200000 -0500" channel="Gamavision">
+    <title lang="es">Bundesliga</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Gamavision">
+    <title lang="es">Gama TV</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313210000 -0500" channel="Gamavision">
+    <title lang="es">Gama TV</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313230000 -0500" channel="Gamavision">
+    <title lang="es">El Último Emperador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210314000000 -0500" channel="Gamavision">
+    <title lang="es">Puro teatro</title>
+  </programme>
+  <programme start="20210312053000 -0500" stop="20210312060000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210312060000 -0500" stop="20210312070000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Gamanoticias matinal</title>
+  </programme>
+  <programme start="20210312070000 -0500" stop="20210312073000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210312073000 -0500" stop="20210312080000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210312080000 -0500" stop="20210312083000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210312083000 -0500" stop="20210312090000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Pensadores positivos</title>
+  </programme>
+  <programme start="20210312090000 -0500" stop="20210312110000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210312110000 -0500" stop="20210312113000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Cosa seria</title>
+  </programme>
+  <programme start="20210312113000 -0500" stop="20210312120000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">La Elegida</title>
+  </programme>
+  <programme start="20210312120000 -0500" stop="20210312130000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Tabú</title>
+  </programme>
+  <programme start="20210312130000 -0500" stop="20210312134500 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Gamanoticias en la comunidad</title>
+  </programme>
+  <programme start="20210312134500 -0500" stop="20210312143000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210312143000 -0500" stop="20210312150000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Secretos del diario</title>
+  </programme>
+  <programme start="20210312150000 -0500" stop="20210312160000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210312160000 -0500" stop="20210312170000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Tik Music</title>
+  </programme>
+  <programme start="20210312170000 -0500" stop="20210312180000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Puro teatro</title>
+  </programme>
+  <programme start="20210312180000 -0500" stop="20210312190000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">El bigote del sabor</title>
+  </programme>
+  <programme start="20210312190000 -0500" stop="20210312200000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Dueña y señora</title>
+  </programme>
+  <programme start="20210312200000 -0500" stop="20210312210000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Vera... a su manera</title>
+  </programme>
+  <programme start="20210312210000 -0500" stop="20210312230000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Quienes mandan aquí</title>
+  </programme>
+  <programme start="20210312230000 -0500" stop="20210313000000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210313060000 -0500" stop="20210313063000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Cocinando</title>
+  </programme>
+  <programme start="20210313063000 -0500" stop="20210313070000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313070000 -0500" stop="20210313073000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313073000 -0500" stop="20210313080000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313080000 -0500" stop="20210313090000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Outlet TV</title>
+  </programme>
+  <programme start="20210313090000 -0500" stop="20210313093000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Quiero Ser</title>
+  </programme>
+  <programme start="20210313093000 -0500" stop="20210313100000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Encuentro con Dios</title>
+  </programme>
+  <programme start="20210313100000 -0500" stop="20210313120000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Promo TV</title>
+  </programme>
+  <programme start="20210313120000 -0500" stop="20210313180000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20210313180000 -0500" stop="20210313200000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Bundesliga</title>
+  </programme>
+  <programme start="20210313200000 -0500" stop="20210313203000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Gama TV</title>
+  </programme>
+  <programme start="20210313203000 -0500" stop="20210313210000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Gama TV</title>
+  </programme>
+  <programme start="20210313220000 -0500" stop="20210313230000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">El Último Emperador</title>
+  </programme>
+  <programme start="20210313230000 -0500" stop="20210314000000 -0500" channel="Gamavision FHD (P)">
+    <title lang="es">Puro teatro</title>
+  </programme>
+</tv>
